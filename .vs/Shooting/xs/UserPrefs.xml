@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{7CF1F33E-A859-9D01-4F58-76470CD3E24C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/GunAction.cs">
+    <Files>
+      <File FileName="Assets/Script/ClayGenerator.cs" Line="7" Column="63" />
+      <File FileName="Assets/Script/ClayController.cs" Line="43" Column="6" />
+      <File FileName="Assets/Script/GunAction.cs" Line="73" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c3adec11-5429-46b5-8cee-2b14e75d3047" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

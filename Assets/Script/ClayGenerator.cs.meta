@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 745638cf4eeae44d2a19035a9844552a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ClayPrefab: {fileID: 1665034479093950, guid: 5f1a80ceea3db4fc9b205c422d02730f,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
